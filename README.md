@@ -1,4 +1,3 @@
 # Login System
-Modern GUI  login  system ,
-In this project i devlope the user interface by using ttkbootsrap 
-and sqlite3 for database 
+Modern GUI login system Interface with ttkbootsrap and sqlite3 database
+
