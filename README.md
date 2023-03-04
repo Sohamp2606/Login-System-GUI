@@ -14,7 +14,9 @@ Modern GUI login system Interface with ttkbootsrap and sqlite3 database
 
 <br />
 <br />
+
 **if password is not matched execption message is display**
+
 <br />
 <br />
 
@@ -22,7 +24,9 @@ Modern GUI login system Interface with ttkbootsrap and sqlite3 database
 
 <br />
 <br />
+
 **if username is already taken then exception message is diplay**
+
 <br />
 <br />
 
@@ -30,7 +34,9 @@ Modern GUI login system Interface with ttkbootsrap and sqlite3 database
 
 <br />
 <br />
+
 **successful login**
+
 <br />
 <br />
 
@@ -38,7 +44,9 @@ Modern GUI login system Interface with ttkbootsrap and sqlite3 database
 
 <br />
 <br />
+
 **if u have account**
+
 <br />
 <br />
 
