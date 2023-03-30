@@ -1,7 +1,7 @@
 # Login System
 <br />
 <br />
-Modern GUI login system Interface with ttkbootsrap and sqlite3 database
+Modern GUI login system Interface with ttkbootstrap and sqlite3 database
 <br />
 <br />
 
